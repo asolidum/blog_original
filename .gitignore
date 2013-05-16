@@ -23,3 +23,7 @@
 
 # Mac Os files
 .DS_Store
+
+# Jekyll files
+/_site
+/_published
