@@ -53,13 +53,13 @@ Thanks for watching and we now return you to your regularly scheduled program...
 
 [te]: href="http://www.sailtrilogy.com/pages/index.php
 
-[sailboat]: https://lh5.googleusercontent.com/-vKz_6h8-pas/UZXPyP0y8zI/AAAAAAAAAMA/cN_hk4mduls/w356-h570-no/_mg_4550.jpg
-[turtle1]: https://lh3.googleusercontent.com/-xjDKmKFGF-k/UZXQg0hXw_I/AAAAAAAAAMs/ZzRB5wr-1EE/w500-h298-no/_mg_4602.jpg
-[turtle2]: https://lh4.googleusercontent.com/-QIa8_wMvhpQ/UZXQhAQB8KI/AAAAAAAAAMw/DBl3IE7ORAI/w500-h311-no/_mg_4618.jpg
-[turtle&karen]: https://lh3.googleusercontent.com/-SSq6c_t7BL8/UZXQen3se-I/AAAAAAAAANo/gHmqC-7EZVw/w500-h317-no/_mg_4635.jpg
-[turtlegettingair]: https://lh3.googleusercontent.com/-RBf_AHQwoAI/UZXQhLm0e4I/AAAAAAAAAM0/0ssq4K7d63E/w500-h285-no/_mg_4627.jpg
-[turtle3]: https://lh4.googleusercontent.com/-j6heUv4yOp0/UZXQemGTcpI/AAAAAAAAAMQ/0A7jvASzB_g/w500-h362-no/_mg_4790.jpg
-[turtle4]: https://lh3.googleusercontent.com/-4Rkwxlm9d3M/UZXQep-fQFI/AAAAAAAAAMU/jADZ9MDOVkk/w500-h291-no/_mg_4880.jpg
-[turtle5]: https://lh4.googleusercontent.com/-VXGtN3Lg76s/UZXQlWtggZI/AAAAAAAAANM/fj5Z_2DkMNg/w500-h542-no/_mg_4883.jpg
-[turtle6]: https://lh6.googleusercontent.com/-8OBet3L8aNQ/UZXQk-HWCHI/AAAAAAAAANI/mGCL2mTnWHc/w413-h570-no/_mg_4872.jpg
-[turtle7]: https://lh4.googleusercontent.com/-Ilk-dK_kJjc/UZXQjwo7wNI/AAAAAAAAAM8/-0Lptvuvy_E/w500-h387-no/_mg_4796.jpg
+[sailboat]: https://lh5.googleusercontent.com/-8-yv0RzY0pI/UZYFOf2w35I/AAAAAAAAAR4/A_AriHTYCxM/w339-h542-no/_mg_4550.jpg
+[turtle1]: https://lh6.googleusercontent.com/-wWKzqbgu_qA/UZYFNgFS_AI/AAAAAAAAAR0/hqxWION76OE/w500-h298-no/_mg_4602.jpg
+[turtle2]: https://lh6.googleusercontent.com/-MrjLqO88y_8/UZYFOGseO1I/AAAAAAAAASA/_uTeUgU70Ys/w500-h311-no/_mg_4618.jpg
+[turtle&karen]: https://lh3.googleusercontent.com/-LDw_BzuqO3g/UZYFP7kurpI/AAAAAAAAASM/-hJr0iaShgM/w500-h317-no/_mg_4635.jpg
+[turtlegettingair]: https://lh3.googleusercontent.com/-vtCLWAqAWCU/UZYFPZhmteI/AAAAAAAAASI/DioCsTYnpuw/w500-h285-no/_mg_4627.jpg
+[turtle3]: https://lh3.googleusercontent.com/-d-B_a3eD53Q/UZYFQsOFYSI/AAAAAAAAASU/VjXKsM_wBlQ/w500-h362-no/_mg_4790.jpg
+[turtle4]: https://lh6.googleusercontent.com/-WrIk5oBNHkc/UZYFS6e0i7I/AAAAAAAAASs/8objbKrCOZQ/w500-h291-no/_mg_4880.jpg
+[turtle5]: https://lh3.googleusercontent.com/-MdDsBZpOVBA/UZYFTpXRIGI/AAAAAAAAAS0/Qb7HxrlNrV4/w500-h542-no/_mg_4883.jpg
+[turtle6]: https://lh4.googleusercontent.com/-TuJWvIbAC04/UZYFSOQcb1I/AAAAAAAAASk/T8TxdnOcynk/w393-h542-no/_mg_4872.jpg
+[turtle7]: https://lh6.googleusercontent.com/-ZIN9ABZCQcY/UZYFRxRQHKI/AAAAAAAAASg/_8UMRyIgBQk/w500-h387-no/_mg_4796.jpg
