@@ -1,2 +1,6 @@
-name: Your New Jekyll Site
+name: Alan Solidum Blog
 pygments: true
+timezone: Pacific/Honolulu
+
+smileytheme: MSN
+root: /
