@@ -6,7 +6,7 @@ module Jekyll
             sitecontext = @context.registers[:site];
 
             theme = sitecontext.config['smileytheme']
-            mappath = (Pathname.new(sitecontext.source) + "_include/smileys").expand_path
+            mappath = (Pathname.new(sitecontext.source) + "_includes/smileys").expand_path
 
             unless theme == false
                 imgmap = YAML.load_file("#{mappath}/default.yml");
