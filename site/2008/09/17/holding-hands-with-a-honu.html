@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Holding hands with a Honu</title>
+    <meta name="viewport" content="width=device-width">
+        
+    <!-- syntax highlighting CSS -->
+    <!-- <link rel="stylesheet" href="/css/syntax.css"> -->
+    
+    <!-- Custom CSS -->
+    <!-- <link rel="stylesheet" href="/css/main.css"> -->
+    <script src="/js/custom.modernizr.js"></script>
+    <script src="/js/foundation.min.js"></script>
+    <link rel="stylesheet" href="/css/foundation.css">
+  </head>
+    <body>
+      
+      <div class="container">
+        <div class="site">
+          <div class="row">
+            <div class="large-1 columns"></div>
+            <div class="large-7 columns">
+              <h1 class="title"><a href="/">Alan Solidum Blog</a></h1>
+            </div>
+          </div>
+          <a class="extra" href="/">home</a>
+        </div>
+          
+          .row
+  .large-1.columns
+  .large-3.colmnns
+    %h2 = page.title
+%p.meta = page.date | date_to_string
+
+#post
+  = content | smilify
+
+          
+          <div class="footer">
+            <div class="contact">
+              <p>
+                Alan Solidum<br />
+                Software Engineer<br />
+                me@alansolidum.com
+              </p>
+            </div>
+            <div class="contact">
+              <p>
+                <a href="http://github.com/asolidum/">github.com/asolidum</a><br />
+                <a href="http://twitter.com/asolidum/">twitter.com/asolidum</a><br />
+              </p>
+            </div>
+          </div>
+        </div>
+      </div> <!-- /container -->
+      <script>
+        document.write('<script src=/js/vendor/'
+                                + ('__proto__' in {} ? 'zepto' : 'jquery')
+                                + '.js><\/script>');
+        $(document).ready(function() {
+            $(document).foundation();                
+        });            
+      </script>
+    </body>
+</html>
