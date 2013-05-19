@@ -1,4 +1,4 @@
-blog_as_alansolidum
+blog_original
 ===================
 
 Jekyll powered blog
