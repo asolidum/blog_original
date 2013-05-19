@@ -11,7 +11,6 @@ To fork
 1) create a new project on GitHub called ‘blog_new'’.
 2) git clone git@github.com:asolidum/blog_original.git blog_new
 3) Edit your Git config file and replace the origin URL with your new URL:
-
    emacs.git/config
 
    [remote "origin"]
@@ -21,4 +20,4 @@ To fork
 5) git push -u origin master
 
 To pull from original: git fetch upstream
-To merge to original: git merge upstream/master
+To merge from original: git merge upstream/master
